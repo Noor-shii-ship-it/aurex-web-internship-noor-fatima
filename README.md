@@ -1,31 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aurex Web Internship</title>
-</head>
-<body>
-    <header>
-        <h1>Aurex Web Internship</h1>
-    </header>
+# Aurex Web Internship - Week 1
 
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
-    </nav>
+## Intern Information
 
-    <main>
-        <section>
-            <h2>Welcome</h2>
-            <p>This is my HTML5 internship project.</p>
-        </section>
-    </main>
+**Name:** Noor Fatima  
+**Domain:** Full-Stack Web Development  
+**Week:** Week 1
 
-    <footer>
-        <p>&copy; 2026 Aurex Web Internship</p>
-    </footer>
+## Task Description
 
-</body>
-</html>
+The objective of Week 1 is to set up the development environment,
+learn Git and GitHub fundamentals, and build a basic personal profile
+webpage using clean HTML5 and semantic HTML.
+
+## Technologies Used
+
+- HTML5
+- Git
+- GitHub
+- Visual Studio Code
+- Google Chrome / Microsoft Edge
+
+## Project Structure
+
+```text
+aurex-web-internship-noor-fatima/
+├── index.html
+└── README.md
