@@ -1,0 +1,148 @@
+/* Basic Page Styling */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background-color: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 30px;
+}
+
+section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 25px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#skills ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    padding: 0;
+}
+
+#skills li {
+    background-color: #f4f4f4;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+#contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#contact form div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#contact input,
+#contact textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+#contact button {
+    padding: 12px;
+    background-color: #222;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+@media (max-width: 600px) {
+
+    nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    section {
+        padding: 18px;
+    }
+
+    #skills ul {
+        grid-template-columns: 1fr;
+    }
+
+    header {
+        padding: 20px;
+    }
+}
+@media (min-width: 601px) and (max-width: 900px) {
+
+    main {
+        padding: 25px;
+    }
+
+    section {
+        padding: 22px;
+    }
+
+    #skills ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    nav {
+        gap: 15px;
+    }
+}
+h1 {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #222;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
