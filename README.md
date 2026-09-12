@@ -1,32 +1,46 @@
-# Aurex Web Internship - Week 1
+# Aurex Web Internship - Week 1 & Week 2
 
 ## Intern Information
 
 **Name:** Noor Fatima
+
 **Domain:** Full-Stack Web Development
-**Week:** Week 1
+
+**Week:** Week 1 & Week 2
 
 ## Task Description
 
 The objective of Week 1 was to set up the development environment, learn Git and GitHub fundamentals, and build a basic personal profile webpage using clean HTML5 and semantic HTML.
 
+In Week 2, the same personal profile webpage was enhanced using CSS styling, Flexbox, CSS Grid, responsive design, and basic interactive styling.
+
 ## Technologies Used
 
 * HTML5
+* CSS3
 * Git
 * GitHub
 * Visual Studio Code
 * Google Chrome / Microsoft Edge
+* GitHub Pages
 
 ## Project Structure
 
 ```text
 aurex-web-internship-noor-fatima/
+
 ├── index.html
+├── style.css
 └── README.md
 ```
 
-## Completed Requirements
+## Live Project
+
+**Noor Fatima - Developer Profile**
+
+https://noor-shii-ship-it.github.io/aurex-web-internship-noor-fatima/
+
+## Week 1 - Completed Requirements
 
 * GitHub profile and public repository setup
 * Local Git repository setup
@@ -44,15 +58,54 @@ aurex-web-internship-noor-fatima/
 * Changes pushed to GitHub
 * No CSS used, according to the Week 1 requirement
 
-## How to Run the Project Locally
+## Week 2 - CSS Styling Features
 
-1. Clone or download the repository.
-2. Open the project folder in Visual Studio Code.
-3. Open the `index.html` file.
-4. Open `index.html` in Google Chrome or Microsoft Edge.
-5. Use the navigation links to move between the different sections.
+During Week 2, CSS was added to improve the appearance, layout, and responsiveness of the personal profile webpage.
+
+### Basic CSS Styling
+
+* Applied Arial font throughout the webpage
+* Added background and text colors
+* Styled the header and footer
+* Added spacing using margin and padding
+* Added borders and rounded corners to sections
+* Improved paragraph readability using line-height
+* Styled headings and navigation links
+
+### Flexbox
+
+Flexbox was used for:
+
+* Navigation layout
+* Centering navigation links
+* Managing spacing between navigation items
+* Contact form layout
+* Arranging form elements vertically
+* Responsive navigation on smaller screens
+
+### CSS Grid
+
+CSS Grid was used in the Skills section to display skills in a two-column layout on larger screens.
+
+The layout changes to a single column on smaller screens for better readability.
+
+### Responsive Design
+
+Media queries were added to make the webpage responsive on different screen sizes.
+
+* Mobile layout for screens up to 600px
+* Tablet layout for screens between 601px and 900px
+* Responsive navigation
+* Responsive Skills Grid
+* Adjusted padding and spacing for smaller screens
+
+### Hover Effect
+
+A hover effect was added to the navigation links so that the links become underlined when the user moves the cursor over them.
 
 ## Key Learnings
+
+### Week 1
 
 During Week 1, I learned how to:
 
@@ -66,11 +119,36 @@ During Week 1, I learned how to:
 * Create and manage a GitHub repository.
 * Push local project changes to GitHub.
 
-## Difficulties / Blockers
+### Week 2
+
+During Week 2, I learned how to:
+
+* Apply CSS to an HTML webpage.
+* Style colors, fonts, spacing, borders, and sections.
+* Use Flexbox for page and form layouts.
+* Use CSS Grid for creating a structured Skills layout.
+* Create responsive layouts using media queries.
+* Adjust webpage layouts for mobile, tablet, and desktop screens.
+* Add basic hover effects using CSS.
+* Connect an external CSS file with an HTML document.
+* Deploy a webpage using GitHub Pages.
+
+## Difficulties / Challenges
+
+### Week 1
 
 Initially, I needed practice with Git commands and understanding the difference between working files, staged changes, commits, and pushed changes. After practicing `git status`, `git add`, `git commit`, and `git push`, I became more comfortable with the basic Git workflow.
 
-## Week 1 Summary
+### Week 2
 
-Week 1 helped me build a strong foundation in HTML5, semantic HTML, Git, and GitHub. I created a personal profile webpage using clean HTML without CSS, following the Week 1 requirements. I also learned how to document my project and manage my code using Git and GitHub.
+During Week 2, understanding CSS layouts and deciding when to use Flexbox or Grid required practice. Creating responsive layouts using media queries was also a learning experience. After practicing these concepts, I became more comfortable with CSS layout and responsive design.
 
+## Week 2 Summary
+
+Week 2 helped me improve my Week 1 personal profile webpage by adding CSS styling and responsive layouts. I practiced Flexbox for navigation and form layouts, CSS Grid for the Skills section, media queries for different screen sizes, and basic hover effects.
+
+The completed project was deployed using GitHub Pages and is available through the live project link above.
+
+## Overall Summary
+
+Across Week 1 and Week 2, I developed a strong foundation in HTML5, CSS3, Git, GitHub, and basic responsive web development. I progressed from creating a semantic HTML webpage without CSS to building a styled and responsive developer profile webpage and deploying it online.
