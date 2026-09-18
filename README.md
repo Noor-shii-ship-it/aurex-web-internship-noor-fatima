@@ -163,6 +163,10 @@ Across Week 1 and Week 2, I developed a strong foundation in HTML5, CSS3, Git, G
 
 Advanced CSS Grid, Flexbox, CSS Animations, Transitions, Responsive Design, and Modern UI/UX.
 
+## Task Description
+
+In Week 3, the responsive portfolio was upgraded using advanced CSS Grid and Flexbox techniques, CSS animations, transitions, hover effects, modern UI/UX styling, glassmorphism, and responsive design for mobile, tablet, and desktop screens.
+
 ### Features Implemented
 
 - Advanced CSS Grid using `grid-template-areas`
