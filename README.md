@@ -1,4 +1,4 @@
-# Aurex Web Internship - Week 1 & Week 2
+# Aurex Web Internship - Week 1 , Week 2 and  Week 3.
 
 ## Intern Information
 
@@ -152,3 +152,50 @@ The completed project was deployed using GitHub Pages and is available through t
 ## Overall Summary
 
 Across Week 1 and Week 2, I developed a strong foundation in HTML5, CSS3, Git, GitHub, and basic responsive web development. I progressed from creating a semantic HTML webpage without CSS to building a styled and responsive developer profile webpage and deploying it online.
+
+## Week 3 – Advanced CSS & Interactive Portfolio
+
+### Week 3 Focus
+
+Advanced CSS Grid, Flexbox, CSS Animations, Transitions, Responsive Design, and Modern UI/UX.
+
+### Features Implemented
+
+- Advanced CSS Grid using `grid-template-areas`
+- Responsive grids using `auto-fit`, `auto-fill`, and `minmax()`
+- Flexbox-based responsive layouts
+- CSS custom variables for consistent styling
+- Modern dark theme
+- Glassmorphism and card elevation effects
+- Hover states and smooth transitions
+- Custom CSS keyframe animations
+- Page-load fade-in animation
+- Floating profile image animation
+- Button pulse micro-interaction
+- Responsive navigation
+- Responsive mobile, tablet, and desktop layouts
+- Responsive typography using `clamp()`
+- Mobile-friendly content container
+
+### Week 3 Project
+
+The Week 2 responsive portfolio was upgraded into a modern, interactive, and animated personal portfolio page using advanced CSS techniques.
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- CSS Grid
+- Flexbox
+- CSS Animations
+- CSS Transitions
+- Responsive Web Design
+- Git & GitHub
+
+### Learning Outcomes
+
+During Week 3, I learned how to create advanced responsive layouts using CSS Grid and Flexbox. I also practiced CSS variables, animations, transitions, glassmorphism, hover effects, responsive typography, and modern UI design techniques.
+
+### Testing
+
+The portfolio was tested on desktop and mobile screen sizes to verify responsive layouts, navigation, animations, and overall visual consistency.
