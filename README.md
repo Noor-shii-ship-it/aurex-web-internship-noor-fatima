@@ -26,6 +26,7 @@ In Week 2, the same personal profile webpage was enhanced using CSS styling, Fle
 
 ## Project Structure
 
+```text
 aurex-web-internship-noor-fatima/
 
 ├── index.html
@@ -35,7 +36,7 @@ aurex-web-internship-noor-fatima/
 │   └── animations.css
 ├── profile-image.png.png
 └── README.md
-
+```
 
 ## Live Project
 
