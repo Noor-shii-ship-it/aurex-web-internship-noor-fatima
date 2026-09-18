@@ -1,4 +1,4 @@
-# Aurex Web Internship - Week 1 , Week 2 and  Week 3.
+# Aurex Web Internship - Week 1, Week 2 and Week 3
 
 ## Intern Information
 
@@ -6,7 +6,7 @@
 
 **Domain:** Full-Stack Web Development
 
-**Week:** Week 1 , Week 2 and Week 3.
+**Week:** Week 1, Week 2 and Week 3
 
 ## Task Description
 
@@ -14,10 +14,16 @@ The objective of Week 1 was to set up the development environment, learn Git and
 
 In Week 2, the same personal profile webpage was enhanced using CSS styling, Flexbox, CSS Grid, responsive design, and basic interactive styling.
 
+In Week 3, the responsive portfolio was upgraded using advanced CSS Grid and Flexbox techniques, CSS animations, transitions, hover effects, modern UI/UX styling, glassmorphism, dark-themed design, and responsive techniques for mobile, tablet, and desktop screens.
+
 ## Technologies Used
 
 * HTML5
 * CSS3
+* CSS Grid
+* Flexbox
+* CSS Animations
+* CSS Transitions
 * Git
 * GitHub
 * Visual Studio Code
@@ -137,6 +143,21 @@ During Week 2, I learned how to:
 * Connect an external CSS file with an HTML document.
 * Deploy a webpage using GitHub Pages.
 
+### Week 3
+
+During Week 3, I learned how to:
+
+* Use advanced CSS Grid techniques such as `grid-template-areas`, `auto-fit`, `auto-fill`, and `minmax()`.
+* Combine CSS Grid and Flexbox to create flexible and responsive layouts.
+* Create CSS animations using `@keyframes`.
+* Add smooth transitions, hover effects, transforms, and micro-interactions.
+* Use CSS custom variables to maintain consistent colors and styling.
+* Apply modern UI techniques such as glassmorphism and card elevation.
+* Build a modern dark-themed interface using CSS.
+* Use `clamp()` and responsive techniques for better typography and layouts.
+* Test the portfolio on desktop and mobile screen sizes.
+* Organize advanced CSS into separate files for better project structure.
+
 ## Difficulties / Challenges
 
 ### Week 1
@@ -147,15 +168,15 @@ Initially, I needed practice with Git commands and understanding the difference 
 
 During Week 2, understanding CSS layouts and deciding when to use Flexbox or Grid required practice. Creating responsive layouts using media queries was also a learning experience. After practicing these concepts, I became more comfortable with CSS layout and responsive design.
 
+### Week 3
+
+During Week 3, working with advanced CSS Grid features and combining different layout techniques required practice. Creating smooth animations and hover effects while keeping the interface responsive was also challenging. I also practiced organizing CSS into separate files and testing the portfolio across different screen sizes. Through practice and testing, I became more comfortable with advanced CSS and modern responsive design.
+
 ## Week 2 Summary
 
 Week 2 helped me improve my Week 1 personal profile webpage by adding CSS styling and responsive layouts. I practiced Flexbox for navigation and form layouts, CSS Grid for the Skills section, media queries for different screen sizes, and basic hover effects.
 
 The completed project was deployed using GitHub Pages and is available through the live project link above.
-
-## Overall Summary
-
-Across Week 1 and Week 2, I developed a strong foundation in HTML5, CSS3, Git, GitHub, and basic responsive web development. I progressed from creating a semantic HTML webpage without CSS to building a styled and responsive developer profile webpage and deploying it online.
 
 ## Week 3 – Advanced CSS & Interactive Portfolio
 
@@ -163,42 +184,27 @@ Across Week 1 and Week 2, I developed a strong foundation in HTML5, CSS3, Git, G
 
 Advanced CSS Grid, Flexbox, CSS Animations, Transitions, Responsive Design, and Modern UI/UX.
 
-## Task Description
-
-In Week 3, the responsive portfolio was upgraded using advanced CSS Grid and Flexbox techniques, CSS animations, transitions, hover effects, modern UI/UX styling, glassmorphism, and responsive design for mobile, tablet, and desktop screens.
-
 ### Features Implemented
 
-- Advanced CSS Grid using `grid-template-areas`
-- Responsive grids using `auto-fit`, `auto-fill`, and `minmax()`
-- Flexbox-based responsive layouts
-- CSS custom variables for consistent styling
-- Modern dark theme
-- Glassmorphism and card elevation effects
-- Hover states and smooth transitions
-- Custom CSS keyframe animations
-- Page-load fade-in animation
-- Floating profile image animation
-- Button pulse micro-interaction
-- Responsive navigation
-- Responsive mobile, tablet, and desktop layouts
-- Responsive typography using `clamp()`
-- Mobile-friendly content container
+* Advanced CSS Grid using `grid-template-areas`
+* Responsive grids using `auto-fit`, `auto-fill`, and `minmax()`
+* Flexbox-based responsive layouts
+* CSS custom variables for consistent styling
+* Modern dark theme
+* Glassmorphism and card elevation effects
+* Hover states and smooth transitions
+* Custom CSS keyframe animations
+* Page-load fade-in animation
+* Floating profile image animation
+* Button pulse micro-interaction
+* Responsive navigation
+* Responsive mobile, tablet, and desktop layouts
+* Responsive typography using `clamp()`
+* Mobile-friendly content container
 
 ### Week 3 Project
 
 The Week 2 responsive portfolio was upgraded into a modern, interactive, and animated personal portfolio page using advanced CSS techniques.
-
-### Technologies Used
-
-- HTML5
-- CSS3
-- CSS Grid
-- Flexbox
-- CSS Animations
-- CSS Transitions
-- Responsive Web Design
-- Git & GitHub
 
 ### Learning Outcomes
 
@@ -207,3 +213,11 @@ During Week 3, I learned how to create advanced responsive layouts using CSS Gri
 ### Testing
 
 The portfolio was tested on desktop and mobile screen sizes to verify responsive layouts, navigation, animations, and overall visual consistency.
+
+## Week 3 Summary
+
+Week 3 helped me upgrade my responsive portfolio into a more modern and interactive web page. I practiced advanced CSS Grid and Flexbox, CSS variables, animations, transitions, hover effects, glassmorphism, responsive typography, and dark-themed UI design. I also tested the portfolio on desktop and mobile screen sizes and deployed the updated project using GitHub Pages.
+
+## Overall Summary
+
+Across Week 1, Week 2, and Week 3, I developed a strong foundation in HTML5, CSS3, Git, GitHub, responsive web development, and modern UI design. I progressed from creating a semantic HTML webpage to building a styled responsive portfolio and then upgrading it with advanced CSS Grid, Flexbox, animations, transitions, modern UI effects, and responsive design techniques. The project was continuously improved, tested, documented, and deployed using GitHub Pages.
