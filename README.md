@@ -6,7 +6,7 @@
 
 **Domain:** Full-Stack Web Development
 
-**Week:** Week 1 & Week 2
+**Week:** Week 1 , Week 2 and Week 3.
 
 ## Task Description
 
@@ -26,13 +26,16 @@ In Week 2, the same personal profile webpage was enhanced using CSS styling, Fle
 
 ## Project Structure
 
-```text
 aurex-web-internship-noor-fatima/
 
 ├── index.html
 ├── style.css
+├── styles/
+│   ├── main.css
+│   └── animations.css
+├── profile-image.png.png
 └── README.md
-```
+
 
 ## Live Project
 
