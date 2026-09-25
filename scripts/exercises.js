@@ -44,3 +44,28 @@ const student = {
 console.log("Student Name:", student.name);
 console.log("Domain:", student.domain);
 console.log("Current Week:", student.week);
+// 6. Loop
+for (let i = 1; i <= 5; i++) {
+    console.log("Loop number:", i);
+}
+
+
+// 7. Arrow Function
+const addNumbers = (a, b) => a + b;
+
+console.log("Sum:", addNumbers(10, 20));
+
+
+// 8. ES6+ Template Literal
+const introduction = `My name is ${studentName} and I am practicing JavaScript in Week ${student.week}.`;
+
+console.log(introduction);
+
+console.log(introduction);
+
+
+// 9. Object Destructuring
+const { name, domain } = student;
+
+console.log("Destructured Name:", name);
+console.log("Destructured Domain:", domain);

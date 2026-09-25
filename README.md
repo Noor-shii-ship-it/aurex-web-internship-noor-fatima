@@ -1,4 +1,4 @@
-**Week:** Week 1, Week 2, Week 3 and Week 4
+# AUREX Full-Stack Engineering Internship — Week 1, Week 2, Week 3 & Week 4
 
 ## Intern Information
 
@@ -6,22 +6,27 @@
 
 **Domain:** Full-Stack Web Development
 
-**Week:** Week 1, Week 2 , week 3 and Week 4
+**Week:** Week 1, Week 2, Week 3 and Week 4
 
 ## Task Description
 
 The objective of Week 1 was to set up the development environment, learn Git and GitHub fundamentals, and build a basic personal profile webpage using clean HTML5 and semantic HTML.
 
-In Week 2, the same personal profile webpage was enhanced using CSS styling, Flexbox, CSS Grid, responsive design, and basic interactive styling.
+In Week 2, the personal profile webpage was enhanced using CSS styling, Flexbox, CSS Grid, responsive design, and basic interactive styling.
 
 In Week 3, the responsive portfolio was upgraded using advanced CSS Grid and Flexbox techniques, CSS animations, transitions, hover effects, modern UI/UX styling, glassmorphism, dark-themed design, and responsive techniques for mobile, tablet, and desktop screens.
 
-In Week 4, the portfolio was enhanced with a JavaScript Task Management Application using DOM manipulation, events, form validation, task filtering, and localStorage for data persistence.
+In Week 4, the portfolio was enhanced with a JavaScript Task Management Application using Vanilla JavaScript, DOM manipulation, events, form validation, task filtering, and localStorage for data persistence.
 
 ## Technologies Used
 
 * HTML5
 * CSS3
+* JavaScript
+* DOM Manipulation
+* JavaScript Events
+* localStorage
+* JSON
 * CSS Grid
 * Flexbox
 * CSS Animations
@@ -32,6 +37,9 @@ In Week 4, the portfolio was enhanced with a JavaScript Task Management Applicat
 * Google Chrome / Microsoft Edge
 * GitHub Pages
 
+## Project Structure
+
+```text
 aurex-web-internship-noor-fatima/
 
 ├── index.html
@@ -44,6 +52,7 @@ aurex-web-internship-noor-fatima/
 │   └── exercises.js
 ├── profile-image.png.png
 └── README.md
+```
 
 ## Live Project
 
@@ -51,7 +60,15 @@ aurex-web-internship-noor-fatima/
 
 https://noor-shii-ship-it.github.io/aurex-web-internship-noor-fatima/
 
-## Week 1 - Completed Requirements
+## GitHub Repository
+
+https://github.com/Noor-shii-ship-it/aurex-web-internship-noor-fatima
+
+---
+
+# Week 1 - HTML5 & Git Fundamentals
+
+## Completed Requirements
 
 * GitHub profile and public repository setup
 * Local Git repository setup
@@ -67,9 +84,31 @@ https://noor-shii-ship-it.github.io/aurex-web-internship-noor-fatima/
 * Footer
 * Meaningful Git commits
 * Changes pushed to GitHub
-* No CSS used, according to the Week 1 requirement
+* No CSS used according to the Week 1 requirement
 
-## Week 2 - CSS Styling Features
+## Week 1 Learning Outcomes
+
+During Week 1, I learned how to:
+
+* Create and organize a basic HTML5 document.
+* Use semantic HTML elements such as `header`, `nav`, `main`, `section`, `article`, and `footer`.
+* Create headings, paragraphs, links, and lists.
+* Create a contact form with properly associated labels and input fields.
+* Understand basic accessibility practices in HTML.
+* Use Git for version control.
+* Use commands such as `git status`, `git add`, `git commit`, and `git push`.
+* Create and manage a GitHub repository.
+* Push local project changes to GitHub.
+
+## Week 1 Challenges
+
+Initially, I needed practice with Git commands and understanding the difference between working files, staged changes, commits, and pushed changes. After practicing the basic Git workflow, I became more comfortable managing my project with Git and GitHub.
+
+---
+
+# Week 2 - CSS Styling & Responsive Design
+
+## CSS Styling Features
 
 During Week 2, CSS was added to improve the appearance, layout, and responsiveness of the personal profile webpage.
 
@@ -91,7 +130,7 @@ Flexbox was used for:
 * Centering navigation links
 * Managing spacing between navigation items
 * Contact form layout
-* Arranging form elements vertically
+* Arranging form elements
 * Responsive navigation on smaller screens
 
 ### CSS Grid
@@ -112,25 +151,9 @@ Media queries were added to make the webpage responsive on different screen size
 
 ### Hover Effect
 
-A hover effect was added to the navigation links so that the links become underlined when the user moves the cursor over them.
+A hover effect was added to navigation links so that the links become underlined when the cursor moves over them.
 
-## Key Learnings
-
-### Week 1
-
-During Week 1, I learned how to:
-
-* Create and organize a basic HTML5 document.
-* Use semantic HTML elements such as header, nav, main, section, article, and footer.
-* Create headings, paragraphs, links, and lists.
-* Create a contact form with properly associated labels and input fields.
-* Understand basic accessibility practices in HTML.
-* Use Git for version control.
-* Use commands such as `git status`, `git add`, `git commit`, and `git push`.
-* Create and manage a GitHub repository.
-* Push local project changes to GitHub.
-
-### Week 2
+## Week 2 Learning Outcomes
 
 During Week 2, I learned how to:
 
@@ -144,48 +167,25 @@ During Week 2, I learned how to:
 * Connect an external CSS file with an HTML document.
 * Deploy a webpage using GitHub Pages.
 
-### Week 3
+## Week 2 Challenges
 
-During Week 3, I learned how to:
-
-* Use advanced CSS Grid techniques such as `grid-template-areas`, `auto-fit`, `auto-fill`, and `minmax()`.
-* Combine CSS Grid and Flexbox to create flexible and responsive layouts.
-* Create CSS animations using `@keyframes`.
-* Add smooth transitions, hover effects, transforms, and micro-interactions.
-* Use CSS custom variables to maintain consistent colors and styling.
-* Apply modern UI techniques such as glassmorphism and card elevation.
-* Build a modern dark-themed interface using CSS.
-* Use `clamp()` and responsive techniques for better typography and layouts.
-* Test the portfolio on desktop and mobile screen sizes.
-* Organize advanced CSS into separate files for better project structure.
-
-## Difficulties / Challenges
-
-### Week 1
-
-Initially, I needed practice with Git commands and understanding the difference between working files, staged changes, commits, and pushed changes. After practicing `git status`, `git add`, `git commit`, and `git push`, I became more comfortable with the basic Git workflow.
-
-### Week 2
-
-During Week 2, understanding CSS layouts and deciding when to use Flexbox or Grid required practice. Creating responsive layouts using media queries was also a learning experience. After practicing these concepts, I became more comfortable with CSS layout and responsive design.
-
-### Week 3
-
-During Week 3, working with advanced CSS Grid features and combining different layout techniques required practice. Creating smooth animations and hover effects while keeping the interface responsive was also challenging. I also practiced organizing CSS into separate files and testing the portfolio across different screen sizes. Through practice and testing, I became more comfortable with advanced CSS and modern responsive design.
+During Week 2, understanding CSS layouts and deciding when to use Flexbox or Grid required practice. Creating responsive layouts using media queries was also a learning experience. Through practice, I became more comfortable with CSS layout and responsive design.
 
 ## Week 2 Summary
 
 Week 2 helped me improve my Week 1 personal profile webpage by adding CSS styling and responsive layouts. I practiced Flexbox for navigation and form layouts, CSS Grid for the Skills section, media queries for different screen sizes, and basic hover effects.
 
-The completed project was deployed using GitHub Pages and is available through the live project link above.
+The completed project was deployed using GitHub Pages.
 
-## Week 3 – Advanced CSS & Interactive Portfolio
+---
 
-### Week 3 Focus
+# Week 3 - Advanced CSS & Interactive Portfolio
+
+## Week 3 Focus
 
 Advanced CSS Grid, Flexbox, CSS Animations, Transitions, Responsive Design, and Modern UI/UX.
 
-### Features Implemented
+## Features Implemented
 
 * Advanced CSS Grid using `grid-template-areas`
 * Responsive grids using `auto-fit`, `auto-fill`, and `minmax()`
@@ -203,107 +203,208 @@ Advanced CSS Grid, Flexbox, CSS Animations, Transitions, Responsive Design, and 
 * Responsive typography using `clamp()`
 * Mobile-friendly content container
 
-### Week 3 Project
+## Week 3 Project
 
 The Week 2 responsive portfolio was upgraded into a modern, interactive, and animated personal portfolio page using advanced CSS techniques.
 
-### Learning Outcomes
+## Week 3 Learning Outcomes
 
-During Week 3, I learned how to create advanced responsive layouts using CSS Grid and Flexbox. I also practiced CSS variables, animations, transitions, glassmorphism, hover effects, responsive typography, and modern UI design techniques.
+During Week 3, I learned how to:
 
-### Testing
+* Use advanced CSS Grid techniques such as `grid-template-areas`, `auto-fit`, `auto-fill`, and `minmax()`.
+* Combine CSS Grid and Flexbox to create flexible and responsive layouts.
+* Create CSS animations using `@keyframes`.
+* Add smooth transitions, hover effects, transforms, and micro-interactions.
+* Use CSS custom variables to maintain consistent colors and styling.
+* Apply modern UI techniques such as glassmorphism and card elevation.
+* Build a modern dark-themed interface using CSS.
+* Use `clamp()` and responsive techniques for better typography and layouts.
+* Test the portfolio on desktop, tablet, and mobile screen sizes.
+* Organize advanced CSS into separate files for better project structure.
 
-The portfolio was tested on desktop and mobile screen sizes to verify responsive layouts, navigation, animations, and overall visual consistency.
+## Week 3 Testing
+
+The portfolio was tested on desktop, tablet, and mobile screen sizes to verify responsive layouts, navigation, animations, and overall visual consistency.
+
+## Week 3 Challenges
+
+During Week 3, working with advanced CSS Grid features and combining different layout techniques required practice. Creating smooth animations and hover effects while keeping the interface responsive was also challenging.
+
+I also practiced organizing CSS into separate files and testing the portfolio across different screen sizes.
 
 ## Week 3 Summary
 
-Week 3 helped me upgrade my responsive portfolio into a more modern and interactive web page. I practiced advanced CSS Grid and Flexbox, CSS variables, animations, transitions, hover effects, glassmorphism, responsive typography, and dark-themed UI design. I also tested the portfolio on desktop and mobile screen sizes and deployed the updated project using GitHub Pages.
+Week 3 helped me upgrade my responsive portfolio into a more modern and interactive web page. I practiced advanced CSS Grid and Flexbox, CSS variables, animations, transitions, hover effects, glassmorphism, responsive typography, and dark-themed UI design.
 
-## Overall Summary
+---
 
-Across Week 1, Week 2, and Week 3, I developed a strong foundation in HTML5, CSS3, Git, GitHub, responsive web development, and modern UI design. I progressed from creating a semantic HTML webpage to building a styled responsive portfolio and then upgrading it with advanced CSS Grid, Flexbox, animations, transitions, modern UI effects, and responsive design techniques. The project was continuously improved, tested, documented, and deployed using GitHub Pages.
-## Week 4 – JavaScript Task Management Application
+# Week 4 - JavaScript Task Management Application
 
-### Week 4 Focus
+## Week 4 Focus
 
-JavaScript Programming Fundamentals, DOM Manipulation, Events, Form Validation, and Data Persistence using `localStorage`.
+**JavaScript Programming Fundamentals + DOM Manipulation + Events, Forms & Data Persistence using `localStorage`.**
 
-### Technologies Used
+The main objective of Week 4 was to learn JavaScript fundamentals and apply them to a working browser-based Task Management Application.
+
+## Week 4 Technologies
 
 * HTML5
 * CSS3
-* JavaScript
+* Vanilla JavaScript
 * DOM Manipulation
 * JavaScript Events
+* Form Validation
 * localStorage
 * JSON
 * Git
 * GitHub
 * GitHub Pages
 
+## Task Management Application
+
+The Task Management Application was built using only HTML5, CSS3, Vanilla JavaScript, DOM manipulation, and localStorage.
+
 ### Features Implemented
 
 * Add new tasks
-* Complete and undo tasks
 * Edit existing tasks
 * Delete tasks
+* Mark tasks as complete
+* Undo completed tasks
 * Filter tasks by All, Active, and Completed
-* Form validation for empty task input
+* Validate empty task input
+* Display validation messages
 * Save tasks using `localStorage`
 * Retrieve saved tasks after page refresh
-* Update task data in `localStorage`
-* Remove deleted tasks from `localStorage`
+* Update stored task data
+* Remove deleted tasks from stored data
+* Dynamically update the task list using the DOM
 * Responsive Task Manager interface
-* Interactive buttons and DOM-based task updates
 
-### JavaScript Concepts Practiced
+## JavaScript Fundamentals Practiced
 
 During Week 4, I practiced:
 
-* `let` and `const`
-* Variables and data types
-* Operators and conditional statements
-* Functions
-* Arrays and objects
-* Array methods
-* DOM selection and manipulation
-* Event listeners
-* Form handling and validation
-* `localStorage`
-* `JSON.stringify()`
-* `JSON.parse()`
-
-### JavaScript Exercises
-
-The following JavaScript exercises were completed in `scripts/exercises.js`:
-
 * Variables using `let` and `const`
+* Data types
+* Basic operators
 * Conditional statements
+* Comparison and logical operators
+* Loops and basic iteration
 * Functions
+* Function parameters and return values
+* Arrow functions
 * Arrays
-* Objects
-* Console output and basic JavaScript practice
+* Array methods
+* Objects and object properties
+* Basic ES6+ concepts
 
-### Challenges / Learning
+## DOM Manipulation Practiced
 
-During Week 4, understanding DOM manipulation and connecting JavaScript with HTML elements required practice. Handling task updates, filtering, form validation, and saving data with `localStorage` was also a learning experience.
+* Selecting elements using `getElementById()`
+* Selecting multiple elements using `querySelectorAll()`
+* Creating HTML elements dynamically
+* Changing text content
+* Adding and removing CSS classes
+* Adding and removing DOM elements
+* Updating the interface dynamically
 
-Through practice and testing, I became more comfortable with JavaScript events, DOM manipulation, arrays, objects, and browser data persistence.
+## Events & Forms
 
-### Testing
+The application uses JavaScript event handling for:
+
+* Form submission
+* Button clicks
+* Task completion
+* Task editing
+* Task deletion
+* Filtering
+
+Form handling includes:
+
+* Reading input values
+* Preventing default form submission
+* Checking for empty input
+* Displaying a custom validation message
+
+## localStorage & JSON
+
+The application uses browser `localStorage` to persist task data.
+
+The following concepts were practiced:
+
+* Saving data using `localStorage.setItem()`
+* Retrieving data using `localStorage.getItem()`
+* Updating stored task data
+* Removing task data
+* Converting JavaScript data to JSON using `JSON.stringify()`
+* Converting JSON data back to JavaScript using `JSON.parse()`
+
+Saved tasks remain available after refreshing the webpage.
+
+## JavaScript Exercises
+
+The JavaScript exercises were completed in:
+
+`scripts/exercises.js`
+
+The exercises cover:
+
+- Variables using `let` and `const`
+- Conditional statements
+- Loops using `for`
+- Functions
+- Arrow functions
+- Arrays
+- Objects
+- ES6+ template literals
+- Object destructuring
+- Basic JavaScript console practice
+
+## Week 4 Challenges / Learning
+
+During Week 4, understanding DOM manipulation and connecting JavaScript with HTML elements required practice.
+
+Handling task creation, editing, deletion, completion, filtering, and dynamic UI updates was also a learning experience.
+
+Working with `localStorage`, JSON data, and page refresh persistence required additional practice.
+
+Through testing and implementation, I became more comfortable with JavaScript fundamentals, DOM manipulation, events, form validation, arrays, objects, and browser data persistence.
+
+## Week 4 Testing
 
 The Task Management Application was tested for:
 
 * Adding tasks
-* Completing and undoing tasks
 * Editing tasks
+* Completing and undoing tasks
 * Deleting tasks
 * Filtering tasks
 * Empty task validation
 * Saving tasks to `localStorage`
 * Restoring tasks after page refresh
+* Updating and removing stored tasks
 * Responsive layouts on desktop, tablet, and mobile screens
+* Live GitHub Pages functionality
+
+The required Task Management features were tested on the deployed version of the application.
 
 ## Week 4 Summary
 
-Week 4 helped me build a functional JavaScript Task Management Application using HTML5, CSS3, and Vanilla JavaScript. I practiced DOM manipulation, events, form validation, arrays, objects, filtering, and `localStorage`. The application can add, edit, complete, delete, and filter tasks while keeping saved tasks available after refreshing the page.
+Week 4 helped me build a functional JavaScript Task Management Application using HTML5, CSS3, and Vanilla JavaScript.
+
+I practiced JavaScript fundamentals, DOM manipulation, event handling, form validation, arrays, objects, loops, functions, filtering, JSON, and `localStorage`.
+
+The application can add, edit, complete, delete, and filter tasks while keeping saved tasks available after refreshing the page.
+
+---
+
+# Overall Summary
+
+Across Week 1, Week 2, Week 3, and Week 4, I developed a strong foundation in frontend web development.
+
+I progressed from creating a semantic HTML5 webpage to building a styled responsive portfolio, then upgraded it with advanced CSS techniques and modern UI design, and finally added JavaScript functionality through a complete Task Management Application.
+
+Throughout the internship weeks, I practiced HTML5, CSS3, responsive design, Flexbox, CSS Grid, animations, transitions, JavaScript, DOM manipulation, events, form validation, JSON, localStorage, Git, GitHub, and GitHub Pages.
+
+The project was continuously developed, tested, documented, committed, pushed to GitHub, and deployed using GitHub Pages.
