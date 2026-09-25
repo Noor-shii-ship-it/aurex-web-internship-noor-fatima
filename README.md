@@ -1,4 +1,4 @@
-# Aurex Web Internship - Week 1, Week 2 and Week 3
+**Week:** Week 1, Week 2, Week 3 and Week 4
 
 ## Intern Information
 
@@ -6,7 +6,7 @@
 
 **Domain:** Full-Stack Web Development
 
-**Week:** Week 1, Week 2 and Week 3
+**Week:** Week 1, Week 2 , week 3 and Week 4
 
 ## Task Description
 
@@ -15,6 +15,8 @@ The objective of Week 1 was to set up the development environment, learn Git and
 In Week 2, the same personal profile webpage was enhanced using CSS styling, Flexbox, CSS Grid, responsive design, and basic interactive styling.
 
 In Week 3, the responsive portfolio was upgraded using advanced CSS Grid and Flexbox techniques, CSS animations, transitions, hover effects, modern UI/UX styling, glassmorphism, dark-themed design, and responsive techniques for mobile, tablet, and desktop screens.
+
+In Week 4, the portfolio was enhanced with a JavaScript Task Management Application using DOM manipulation, events, form validation, task filtering, and localStorage for data persistence.
 
 ## Technologies Used
 
@@ -30,9 +32,6 @@ In Week 3, the responsive portfolio was upgraded using advanced CSS Grid and Fle
 * Google Chrome / Microsoft Edge
 * GitHub Pages
 
-## Project Structure
-
-```text
 aurex-web-internship-noor-fatima/
 
 ├── index.html
@@ -40,9 +39,11 @@ aurex-web-internship-noor-fatima/
 ├── styles/
 │   ├── main.css
 │   └── animations.css
+├── scripts/
+│   ├── main.js
+│   └── exercises.js
 ├── profile-image.png.png
 └── README.md
-```
 
 ## Live Project
 
@@ -221,3 +222,88 @@ Week 3 helped me upgrade my responsive portfolio into a more modern and interact
 ## Overall Summary
 
 Across Week 1, Week 2, and Week 3, I developed a strong foundation in HTML5, CSS3, Git, GitHub, responsive web development, and modern UI design. I progressed from creating a semantic HTML webpage to building a styled responsive portfolio and then upgrading it with advanced CSS Grid, Flexbox, animations, transitions, modern UI effects, and responsive design techniques. The project was continuously improved, tested, documented, and deployed using GitHub Pages.
+## Week 4 – JavaScript Task Management Application
+
+### Week 4 Focus
+
+JavaScript Programming Fundamentals, DOM Manipulation, Events, Form Validation, and Data Persistence using `localStorage`.
+
+### Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* DOM Manipulation
+* JavaScript Events
+* localStorage
+* JSON
+* Git
+* GitHub
+* GitHub Pages
+
+### Features Implemented
+
+* Add new tasks
+* Complete and undo tasks
+* Edit existing tasks
+* Delete tasks
+* Filter tasks by All, Active, and Completed
+* Form validation for empty task input
+* Save tasks using `localStorage`
+* Retrieve saved tasks after page refresh
+* Update task data in `localStorage`
+* Remove deleted tasks from `localStorage`
+* Responsive Task Manager interface
+* Interactive buttons and DOM-based task updates
+
+### JavaScript Concepts Practiced
+
+During Week 4, I practiced:
+
+* `let` and `const`
+* Variables and data types
+* Operators and conditional statements
+* Functions
+* Arrays and objects
+* Array methods
+* DOM selection and manipulation
+* Event listeners
+* Form handling and validation
+* `localStorage`
+* `JSON.stringify()`
+* `JSON.parse()`
+
+### JavaScript Exercises
+
+The following JavaScript exercises were completed in `scripts/exercises.js`:
+
+* Variables using `let` and `const`
+* Conditional statements
+* Functions
+* Arrays
+* Objects
+* Console output and basic JavaScript practice
+
+### Challenges / Learning
+
+During Week 4, understanding DOM manipulation and connecting JavaScript with HTML elements required practice. Handling task updates, filtering, form validation, and saving data with `localStorage` was also a learning experience.
+
+Through practice and testing, I became more comfortable with JavaScript events, DOM manipulation, arrays, objects, and browser data persistence.
+
+### Testing
+
+The Task Management Application was tested for:
+
+* Adding tasks
+* Completing and undoing tasks
+* Editing tasks
+* Deleting tasks
+* Filtering tasks
+* Empty task validation
+* Saving tasks to `localStorage`
+* Restoring tasks after page refresh
+* Responsive layouts on desktop, tablet, and mobile screens
+
+## Week 4 Summary
+
+Week 4 helped me build a functional JavaScript Task Management Application using HTML5, CSS3, and Vanilla JavaScript. I practiced DOM manipulation, events, form validation, arrays, objects, filtering, and `localStorage`. The application can add, edit, complete, delete, and filter tasks while keeping saved tasks available after refreshing the page.

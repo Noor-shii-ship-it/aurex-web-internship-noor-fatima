@@ -429,3 +429,121 @@ input,
 textarea {
     color-scheme: dark;
 }
+.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
+#task-list li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+#task-list li span {
+    flex: 1;
+}
+
+#task-list button {
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+/* Week 4 - Task Manager Theme */
+
+#task-manager {
+    margin-top: 30px;
+    background: rgba(30, 41, 59, 0.75);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(108, 99, 255, 0.35);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+#task-manager h2 {
+    color: #a78bfa;
+}
+
+#task-form {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+#task-input {
+    flex: 1;
+    min-width: 200px;
+    padding: 10px;
+    background: #0f172a;
+    color: #e2e8f0;
+    border: 1px solid #475569;
+    border-radius: 8px;
+}
+
+#task-input:focus {
+    outline: none;
+    border-color: #8b5cf6;
+    box-shadow: 0 0 10px rgba(139, 92, 246, 0.3);
+}
+
+#task-form button,
+.task-filters button,
+#task-list button {
+    padding: 8px 14px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #6c63ff, #4a90e2);
+    color: white;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+#task-form button:hover,
+.task-filters button:hover,
+#task-list button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(108, 99, 255, 0.35);
+}
+
+.task-filters {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.task-filters .active {
+    background: linear-gradient(135deg, #8b5cf6, #6c63ff);
+    box-shadow: 0 0 12px rgba(139, 92, 246, 0.4);
+}
+
+#task-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#task-list li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+    padding: 12px;
+    background: rgba(15, 23, 42, 0.7);
+    border: 1px solid rgba(167, 139, 250, 0.2);
+    border-radius: 8px;
+}
+
+#task-list li span {
+    flex: 1;
+    color: #e2e8f0;
+}
+
+#task-error {
+    color: #f87171;
+    margin-top: 8px;
+}
+
+#empty-message {
+    color: #cbd5e1;
+}
